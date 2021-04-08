@@ -1,0 +1,11 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Dorota Tomala <doforever@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
